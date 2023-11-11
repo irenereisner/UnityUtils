@@ -1,0 +1,18 @@
+{
+  "name": "com.reko3d.servicelocator",
+  "version": "1.0.0",
+  "displayName": "Service Locator",
+  "description": "Register and get game services with IOC",
+  "unity": "2021.3",
+  "unityRelease": "20f1",
+ "keywords": [
+    "Service Locator",
+    "IOC",
+    "Inversion Of Control"
+  ],
+  "author": {
+    "name": "Irene Reisner-Kollmann",
+    "email": "irene@reko3d.com",
+    "url": "https://www.reko3d.com"
+  }
+}
