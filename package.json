@@ -1,14 +1,15 @@
 {
-  "name": "com.reko3d.servicelocator",
+  "name": "com.reko3d.utils",
   "version": "1.0.0",
-  "displayName": "Service Locator",
-  "description": "Register and get game services with IOC",
+  "displayName": "Reko3d Utils",
+  "description": "Several utilites for Unity: IOC, Interface binding",
   "unity": "2021.3",
   "unityRelease": "20f1",
  "keywords": [
     "Service Locator",
     "IOC",
-    "Inversion Of Control"
+    "Inversion Of Control",
+	"Interface binding"
   ],
   "author": {
     "name": "Irene Reisner-Kollmann",
